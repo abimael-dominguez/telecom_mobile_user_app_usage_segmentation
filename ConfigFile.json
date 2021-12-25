@@ -1,0 +1,9 @@
+{
+    "innactive_time_between_app_session_in_seconds":60,
+    "sampling_period_in_hours":6,
+    "number_of_quantiles":5,
+    "potential_high_value_users_file":"0_potential_high_value_users.json",
+    "category_apps_dictionary_file":"all_category_apps_dictionary.json",
+    "country":"China",
+    "final_report_folder_name":"report_Dec2021"
+}
