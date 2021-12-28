@@ -28,3 +28,7 @@ http://fi.ee.tsinghua.edu.cn/appusage/
 | App2Category.zip | App ID, Category ID|
 | Categorys.zip| Category ID, English Name|
 
+## The Dashboard
+The data processing produce a friendly format to plot the results in any BI tool (such as Power Bi, Tableau, Google Data Studio etc.)
+Here an example in Google Data Studio:
+- https://datastudio.google.com/reporting/72a89cb6-1136-4800-9f2e-329a7e1d6475
