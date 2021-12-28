@@ -6,6 +6,7 @@ Just because one user consume most of their data in a particular mobile app, tha
 
 For that purpose it is necessary to compare the user with other users and give him a "score", then we can determine if his app consumtion is relevant (compared with others) or just normal.
 
+
 - This work is divided in three parts:
 
     1. Sampling: to prepare the data for analysis.
@@ -29,6 +30,8 @@ http://fi.ee.tsinghua.edu.cn/appusage/
 | Categorys.zip| Category ID, English Name|
 
 ## The Dashboard
-The data processing produce a friendly format to plot the results in any BI tool (such as Power Bi, Tableau, Google Data Studio etc.)
+The data processing produce a friendly format to plot the results in any BI tool (such as Power Bi, Tableau, Google Data Studio etc.).
+Note: the dataset used for the dashboard was mainly the "QUANTILIZED_table_stacked_format_S6Q5.csv" dataset.
+
 Here an example in Google Data Studio:
 - https://datastudio.google.com/reporting/72a89cb6-1136-4800-9f2e-329a7e1d6475
