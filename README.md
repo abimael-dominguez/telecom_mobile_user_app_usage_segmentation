@@ -4,7 +4,7 @@
 ## Introduction
 Just because one user consume most of their data in a particular mobile app, that doesn't necesarily mean that he likes the app, nor that he is willing to pay for services related to the apps he consume most.
 
-For that purpose it is necessary to compare the user with other users and give him a "score", then we can determine if his app consumtion is relevant (compared with others) or just normal.
+A better approach is to compare the user with other users and give him a "score", then we can determine if his app consumtion is relevant (compared with others) or just normal.
 
 
 - This work is divided in three parts:
